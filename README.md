@@ -1,0 +1,2 @@
+# Smruti_Singhari_internship_sparkfoundation
+Internship in Spark Foundation
